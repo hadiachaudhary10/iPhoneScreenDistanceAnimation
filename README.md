@@ -1,4 +1,4 @@
-# 🎯 UIkit Animation
+# 🎯 Goal Of The Project
 The aim of this project was to mimic the iPhone Screen Distance Animation in UIKit.
 
 ## ✅ Screenshots
